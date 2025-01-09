@@ -1,6 +1,4 @@
-# build-custom-live-sid-iso
-I will demonstrate how to build your own custom iso based on Debian Sid. 
-
+# Build a custon live ISO based on Debian Sid
 
 Install dependencies 
 ```
