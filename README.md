@@ -1,4 +1,4 @@
-# Build a custon live ISO based on Debian Sid
+# Build a custom live ISO based on Debian Sid
 
 Install dependencies 
 ```
